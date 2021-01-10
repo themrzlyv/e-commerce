@@ -2,5 +2,7 @@ export default {
     categories: [],
     products: [],
     currentCategory: "",
-    cartlist: []
+    cartlist: [],
+    updateproduct: {},
+    deleteproduct: {}
 }

@@ -1,6 +1,12 @@
 export const GET_CATEGORYIES = "GET_CATEGORIES";
 export const CURRENT_CATEGORY = "CURRENT_CATEGORY";
+
+
 export const GET_PRODUCTS = "GET_PRODUCTS";
+export const CREATE_PRODUCT = 'CREATE_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+
 
 export const ADDTO_CART = "ADDTO_CART";
 export const DELETE_CART = 'DELETE_CART';

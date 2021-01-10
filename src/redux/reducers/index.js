@@ -6,5 +6,7 @@ export default combineReducers({
     categories: categoryReducer,
     currentCategory: currentCategoryReducer,
     products: productReducer,
+    updateproduct: productReducer,
+    deleteproduct: productReducer,
     cartlist: addToCartReducer
 })
